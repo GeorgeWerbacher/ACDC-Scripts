@@ -1,6 +1,6 @@
 Scripts to help with IR investigations &amp; research
 
-# Follow these steps to install the scripts!
+# Installation Guide
 ```
 cd ~/Desktop/
 git clone https://github.com/GeorgeWerbacher/ACDC-Scripts.git
@@ -12,4 +12,10 @@ python ip-lookup.py -h
 
 Examples:
 python -i 77.247.181.165
+```
+
+# Updating Guide
+```
+cd ~/Desktop/ACDC-Scripts
+git pull origin master 
 ```
