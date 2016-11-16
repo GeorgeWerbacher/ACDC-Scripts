@@ -4,6 +4,7 @@ Scripts to help with IR investigations &amp; research
 ```
 cd ~/Desktop/
 git clone https://github.com/GeorgeWerbacher/ACDC-Scripts.git
+cd /ACDC-Scripts/
 pip install -r requirements.txt
 python ip-lookup.py -h
 ```
