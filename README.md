@@ -11,7 +11,7 @@ python ip-lookup.py -h
 
 
 Examples:
-python -i 77.247.181.165
+python ip-lookup.py -i 77.247.181.165
 ```
 
 # Updating Guide
